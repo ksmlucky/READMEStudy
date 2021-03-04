@@ -57,5 +57,6 @@ __진하게2__
 ---
 
 ### 6. 이미지 가져오기
+![image](https://user-images.githubusercontent.com/77111523/109932316-60fa5f00-7d0d-11eb-9b2a-9da40e0d1a33.png)
 
 
